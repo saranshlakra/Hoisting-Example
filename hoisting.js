@@ -26,7 +26,7 @@ sum(10,5); // function called before declaration.
   addition = a+b;
   console.log(addition);
  var a,b;
-
+// or
  c = 80;
  console.log(c);
  var c;
